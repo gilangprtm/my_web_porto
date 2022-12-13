@@ -1,2 +1,2 @@
 # my_web_porto
-mine website portofolio
+my personal website portofolio
